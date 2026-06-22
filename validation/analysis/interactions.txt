@@ -1,0 +1,7 @@
+Interactions     Crystal       Redocking
+LYS745A           Si            Si
+THR790A           Si            Si
+LEU792A           Si            No
+LEU844A           Si            No
+MET793A           Si            Si
+LEU788            Si            No

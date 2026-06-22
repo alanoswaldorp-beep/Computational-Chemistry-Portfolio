@@ -1,0 +1,9 @@
+RMSD Validation
+
+Target: EGFR (4WKQ)
+Ligand: Gefitinib
+
+RMSD (quinazoline core): 0.317 Å
+
+Interpretation:
+Excellent reproduction of the crystallographic binding mode.
